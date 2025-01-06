@@ -15,6 +15,26 @@ A modern, user-friendly system designed for students to create, organize, and se
 - **Frontend**: ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 - **Database**: ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
+## Dashboard
+![Dashboard](https://github.com/user-attachments/assets/89cde1cc-1c63-4ad0-aefc-b15e02fae809)
+
+## Profile
+![profile](https://github.com/user-attachments/assets/fcaabb9d-9b73-4088-b248-4ca96a824a37)
+
+## View Notes
+![view_notes](https://github.com/user-attachments/assets/c23c4ac0-9c15-4dc3-b4da-bdbcc0d56ef3)
+
+## Add Notes
+![add notes](https://github.com/user-attachments/assets/1d31905a-0109-4ab1-b911-78e3bbf47e33)
+
+
+## Chnage _Password
+![change_password](https://github.com/user-attachments/assets/e6e53152-7a16-4e23-80eb-4cf9f42d9c35)
+
+
+
+
+
 
 ---
 
