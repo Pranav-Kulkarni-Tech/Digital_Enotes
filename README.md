@@ -16,26 +16,33 @@ A modern, user-friendly system designed for students to create, organize, and se
 - **Database**: ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ## About Section
+![Image](https://github.com/user-attachments/assets/ab43e076-37ad-43e2-969a-9bb3162bd5f4)
 
-![Image](https://github.com/user-attachments/assets/59328092-6118-4d17-9d56-3a4b07e6d722)
+##  User Interfcae
+![Image](https://github.com/user-attachments/assets/16b0d556-465c-4608-845d-e97f08198f4d)
+
+## Signup
+![Image](https://github.com/user-attachments/assets/7f89b1f2-afd7-46c7-b94f-997143fc6170)
+
+## Login
+![Image](https://github.com/user-attachments/assets/9c8798ba-06e0-4640-98da-d5a6d573fc8f)
 
 ## Dashboard
-![Dashboard](https://github.com/user-attachments/assets/89cde1cc-1c63-4ad0-aefc-b15e02fae809)
+![Image](https://github.com/user-attachments/assets/63148602-cd70-4fe8-91cb-2f5cd45cc612)
+
+
+## Add notes
+![Image](https://github.com/user-attachments/assets/d0ef3160-e956-436f-b1f4-5031a769c5b5)
+
+
+
+
 
 ## Profile
-![profile](https://github.com/user-attachments/assets/fcaabb9d-9b73-4088-b248-4ca96a824a37)
+![Image](https://github.com/user-attachments/assets/63148602-cd70-4fe8-91cb-2f5cd45cc612)
 
 ## View Notes
-![view_notes](https://github.com/user-attachments/assets/c23c4ac0-9c15-4dc3-b4da-bdbcc0d56ef3)
-
-## Add Notes
-![add notes](https://github.com/user-attachments/assets/1d31905a-0109-4ab1-b911-78e3bbf47e33)
-
-
-## Chnage _Password
-![change_password](https://github.com/user-attachments/assets/e6e53152-7a16-4e23-80eb-4cf9f42d9c35)
-
-
+![Image](https://github.com/user-attachments/assets/2e6cfcaa-bfe6-4f78-83ee-77312a0831a0)
 
 
 
