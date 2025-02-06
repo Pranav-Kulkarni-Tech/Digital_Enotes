@@ -28,7 +28,8 @@ A modern, user-friendly system designed for students to create, organize, and se
 ![Image](https://github.com/user-attachments/assets/9c8798ba-06e0-4640-98da-d5a6d573fc8f)
 
 ## Dashboard
-![Image](https://github.com/user-attachments/assets/63148602-cd70-4fe8-91cb-2f5cd45cc612)
+![Image](https://github.com/user-attachments/assets/69b9ee9f-b9e5-40dd-9ab2-c07cb5c22f09)
+
 
 
 ## Add notes
@@ -43,6 +44,9 @@ A modern, user-friendly system designed for students to create, organize, and se
 
 ## View Notes
 ![Image](https://github.com/user-attachments/assets/2e6cfcaa-bfe6-4f78-83ee-77312a0831a0)
+
+## Change_Password
+![Image](https://github.com/user-attachments/assets/78269073-dabb-48d8-9a9e-24a3f51530f0)
 
 
 
