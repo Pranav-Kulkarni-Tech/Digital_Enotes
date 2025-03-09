@@ -101,10 +101,7 @@ python manage.py runserver
 Open your browser and go to:  
 👉 `http://127.0.0.1:8000`
 
----
 
-## 📬 **Contributing**
-🙌 Contributions are welcome! Feel free to fork the repository and submit pull requests.
 
 ---
 
@@ -113,8 +110,9 @@ Open your browser and go to:
 
 ---
 
-## 🔗 **Connect with Me**
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Pranav-Kulkarni-Tech)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kulkarni/)
+## 🔗 **Connect with Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranav-kulkarni-tech)
+
+
 
 🚀 **Happy Coding!** 🎉
